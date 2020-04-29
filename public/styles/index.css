@@ -1,0 +1,15 @@
+.form{
+    width: 90%;
+    margin: 10;
+    text-align: center;
+}
+
+.search{
+    width: 60%;
+    height: 35px;
+    text-align: center;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-top: 3%;
+}
+
